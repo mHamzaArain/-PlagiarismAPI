@@ -1,2 +1,2 @@
-# -PlagiarismAPI
+# PlagiarismAPI
  Plagiarism Check API 
