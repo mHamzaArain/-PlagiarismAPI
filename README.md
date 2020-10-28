@@ -21,3 +21,11 @@ Body -> raw -> JSON
     "text2": "The dog is very very cute"
 }
 ```
+
+## Docker
+Build and run
+
+```
+docker-compose build
+docker-compose up
+```
