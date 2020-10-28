@@ -1,6 +1,6 @@
 """
-Service API
-------------
+Plagairism Detector API using NLP
+----------------------------------
 
 * Registration of a user with 6 tokens initially.
 * Detect similarity between text1 and text2 then return ratio database for 1 token and .
@@ -26,6 +26,7 @@ import bcrypt
 # ###########################################################
 # #######################  Tool Class ######################
 # ###########################################################    
+
 class Tool():
     def JSONOutputMessage(statusCode, output="", ratio=0):
         """Return status code 200 & output"""
