@@ -21,6 +21,7 @@ Body -> raw -> JSON
     "text2": "The dog is very very cute"
 }
 ```
+![]( plagairismAPI.png )
 
 ## Docker
 Build and run
